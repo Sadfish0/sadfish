@@ -2,6 +2,8 @@
 .vscode
 Debug
 Release
+x64
 */Debug
 */vs
-*/64
+*/x64
+
