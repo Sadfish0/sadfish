@@ -4,6 +4,6 @@ Debug
 Release
 x64
 */Debug
-*/vs
+*/.vs
 */x64
 
