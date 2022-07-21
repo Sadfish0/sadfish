@@ -2,7 +2,7 @@
 #include "Adapter.h"
 
 void GermanyPlug::UsePlug() {  //德国插头用美国插座  美插座->德插座
-	AmericanSocket* americanSocket_g = new AmericanSocket();
+	/*AmericanSocket* americanSocket_g = new AmericanSocket();
 	AmericanSocketAdapter* americanSocketAdapter_g = new AmericanSocketAdapter(americanSocket_g);
 	std::cout<<americanSocketAdapter_g->GermanyInput() << "\n";
 
@@ -13,5 +13,5 @@ void GermanyPlug::UsePlug() {  //德国插头用美国插座  美插座->德插座
 
 	delete americanSocket_g;
 	delete americanSocketAdapter_g;
-	std::cout << "\n";
+	std::cout << "\n";*/
 }
